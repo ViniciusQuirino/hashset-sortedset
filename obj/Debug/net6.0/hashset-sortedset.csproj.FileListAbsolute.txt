@@ -1,0 +1,15 @@
+/home/vinicius/Área de Trabalho/hashset-sortedset/bin/Debug/net6.0/hashset-sortedset
+/home/vinicius/Área de Trabalho/hashset-sortedset/bin/Debug/net6.0/hashset-sortedset.deps.json
+/home/vinicius/Área de Trabalho/hashset-sortedset/bin/Debug/net6.0/hashset-sortedset.runtimeconfig.json
+/home/vinicius/Área de Trabalho/hashset-sortedset/bin/Debug/net6.0/hashset-sortedset.dll
+/home/vinicius/Área de Trabalho/hashset-sortedset/bin/Debug/net6.0/ref/hashset-sortedset.dll
+/home/vinicius/Área de Trabalho/hashset-sortedset/bin/Debug/net6.0/hashset-sortedset.pdb
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.csproj.AssemblyReference.cache
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.AssemblyInfoInputs.cache
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.AssemblyInfo.cs
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.csproj.CoreCompileInputs.cache
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.dll
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/ref/hashset-sortedset.dll
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.pdb
+/home/vinicius/Área de Trabalho/hashset-sortedset/obj/Debug/net6.0/hashset-sortedset.genruntimeconfig.cache
